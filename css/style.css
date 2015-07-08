@@ -43,7 +43,6 @@ body a:hover{
 
 /*-- Header Part Starts Here --*/
 .header{
-	background:url(../images/banner.jpg)no-repeat;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -53,11 +52,11 @@ body a:hover{
 	padding:2.5em 0;
 }
 .logo {
-	margin: 8em 0 5em 0;
+	margin: 3em 0 4em 0;
 }
 .header-matter h1{
 	font-size:2.5em;
-	color#000;
+	color: #000;
 	font-family: 'gotham-medium', sans-serif;
 	font-weight:300;
 }
@@ -68,7 +67,7 @@ body a:hover{
 	font-size:1em;
 	font-weight:400;
 	line-height:1.6em;
-	color:#fff;
+	color:#000;
 	margin:0 0 3em 0;
 }
 form.ap-but input[type="submit"]{

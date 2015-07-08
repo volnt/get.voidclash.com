@@ -45,7 +45,7 @@ $translateProvider.translations('fr', {
     download: {
       mtitle: "Void Clash &#151; Téléchargez la beta",
       title: "Téléchargez la beta",
-      subtitle: "Selectionnez un serveur de téléchargement parmi <strong>Amerique</strong>, <strong>Europe</strong> et <strong>Asie</strong> en fonction de votre location",
+      subtitle: "Selectionnez un serveur de téléchargement parmi <strong>Amerique</strong>, <strong>Europe</strong> et <strong>Asie</strong> selon votre location",
     },
     server: {
       eu: "Europe",
