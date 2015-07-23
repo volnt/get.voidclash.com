@@ -29,7 +29,7 @@ app.config(function ($translateProvider) {
       mtitle: "Void Clash &#151; Download the beta",
       title: "Download the beta",
       subtitle: "You can choose a mirror between <strong>America</strong>, <strong>Europe</strong> and <strong>Asia</strong> following your position",
-      date: "Available on 23.07.2015"
+      date: "Available today at 16h GMT/UTC+1 !"
     },
     server: {
       eu: "Europe",
